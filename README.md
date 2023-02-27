@@ -11,3 +11,8 @@
 
 ### The component will receive the ‘position‘ of tooltip as prop. We can pass options : “top”, “bottom”, “right”, “left”.
 ### According to the position the tooltip should render at that position.
+
+## Product Demo:
+
+[LIVE PRODUCT](https://frabjous-phoenix-e961f6.netlify.app/)
+
